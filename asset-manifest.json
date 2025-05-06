@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Alastorkhunrath/shop_projects.git/static/css/main.645c1135.css",
+    "main.js": "/Alastorkhunrath/shop_projects.git/static/js/main.aa665481.js",
+    "static/js/453.0f4552a2.chunk.js": "/Alastorkhunrath/shop_projects.git/static/js/453.0f4552a2.chunk.js",
+    "static/media/presentation.jpg": "/Alastorkhunrath/shop_projects.git/static/media/presentation.e9bac9df7370e5267886.jpg",
+    "index.html": "/Alastorkhunrath/shop_projects.git/index.html",
+    "main.645c1135.css.map": "/Alastorkhunrath/shop_projects.git/static/css/main.645c1135.css.map",
+    "main.aa665481.js.map": "/Alastorkhunrath/shop_projects.git/static/js/main.aa665481.js.map",
+    "453.0f4552a2.chunk.js.map": "/Alastorkhunrath/shop_projects.git/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645c1135.css",
+    "static/js/main.aa665481.js"
+  ]
+}
